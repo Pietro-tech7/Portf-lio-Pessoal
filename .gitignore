@@ -1,0 +1,16 @@
+# Ignored files
+node_modules/
+.vscode/
+.env
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+dist/
+build/
+*.log
+# OS files
+*.tmp
+
+# OneDrive
+~$*
